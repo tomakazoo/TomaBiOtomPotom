@@ -1,13 +1,13 @@
 ---
-title: Humane Typography in the Digital Age
+title: Build React Bootstrap with Material UI
 date: "2017-08-19T22:40:32.169Z"
 layout: post
 draft: false
 path: "/posts/humane-typography-in-the-digital-age/"
-category: "Typography"
+category: "React Bootstrap"
 tags:
   - "Design"
-  - "Typography"
+  - "React Bootstrap"
   - "Web Development"
 description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
 ---
